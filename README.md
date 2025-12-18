@@ -1,3 +1,5 @@
+<img width="620" height="620" alt="Team Taco (1)" src="https://github.com/user-attachments/assets/4303bfe3-c4dd-4573-9fcf-fb04a9a7d33f" />
+
 # 🖥️ Git & GitHub Playground: GitHub Desktop Edition
 
 Welcome to the team! We use **GitHub Desktop** to manage our code. It allows us to save our work and share it with the team using a simple visual interface instead of complex commands.
